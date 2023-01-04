@@ -1,0 +1,9 @@
+Link to GitHub repo: https://github.coecis.cornell.edu/erc97/info2950
+
+Dataset ideas:
+
+1. Top 50 songs played on Spotify by year. Kaggle datasets available for 2019, 2018, 2017. Data includes title, artist, genre, BPM, popularity, and more.
+
+2. Top 100 songs of the decade by genre as featured on Spotify. Data includes title, artist, album, song length, and daily plays.
+
+3. Search Engine Optimization Data from Moz Analytics for MassGeneral Hospital for Children. (Asking my boss for permission–I am an intern in digital marketing, so I have access to the account data and the keywords we track for the website). Data includes Keyword, Location, Monthly Volume, Rank in Google, URL for 539 tracked keywords that I can scrape from the site.
